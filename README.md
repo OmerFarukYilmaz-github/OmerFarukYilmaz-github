@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Developing an mobile game app and learning more about mobile, game and IoT. 
-- ⚡ Fun fact: I like to spend time with the people I love 👨‍👩‍👧‍👦, play basketball ⛹️‍♂️ and bodybuilding 🏋️
+- ⚡ Fun fact: I like to; spend time with the people I love 👨‍👩‍👧‍👦, play basketball ⛹️‍♂️ and bodybuilding 🏋️
 <br />
 
 
@@ -54,10 +54,4 @@
 [instagram]: https://www.instagram.com
 [linkedin]: https://www.linkedin.com
 [gmail]: mailto:omerfarukyilmaz.iletisim@gmail.com
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[android]: https://www.android.com/
-[github]: https://github.com/OmerFarukyYilmaz-github
-[python]: https://www.python.org/
-- ![](https://visitor-badge.laobi.icu/badge?page_id=OmerFarukYilmaz-github)
 <br />
