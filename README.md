@@ -15,7 +15,7 @@ Hello There! Selamun Aleykum👋I'm Ömer. I was born in 2000. I'm a Student �
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 <p align="left">
-<a href="https://www.hackerrank.com/@omerfarukyilmaz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omerfarukyilmaz3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/omerfarukyilmaz3?h_r=internal-search&hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 <br />
 
