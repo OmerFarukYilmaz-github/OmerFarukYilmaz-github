@@ -52,6 +52,6 @@ Hello There! Selamun Aleykum👋I'm Ömer. I was born in 2000. I'm a Student �
 <br />
 
 [instagram]: https://www.instagram.com
-[linkedin]: https://www.linkedin.com
+[linkedin]: https://www.linkedin.com/in/ömer-faruk-yılmaz-490032234/
 [gmail]: mailto:omerfarukyilmaz.iletisim@gmail.com
 <br />
