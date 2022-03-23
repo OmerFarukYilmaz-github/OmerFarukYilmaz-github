@@ -44,9 +44,9 @@ Hello There! Selamun Aleykum👋I'm Ömer. I was born in 2000. I'm a Student �
 <br />
 
 ### CV
-https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/raw/main/%C3%96mer%20Faruk%20Y%C4%B1lmaz%20CV.pdf
+https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/blob/main/Cv.pdf
 
-https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/blob/main/%C3%96mer%20Faruk%20Y%C4%B1lmaz%20CV.png
+https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/blob/main/Cv.png
 
 ### GitHub Analytics 📊
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfarukyilmaz-github&show_icons=true&theme=midnight-purple&locale=en&layout=compact"  /></p>
