@@ -49,7 +49,7 @@ https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/blob/main/Cv.pd
 https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/blob/main/Cv.png
 
 ### GitHub Analytics 📊
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerFarukYilmaz-github&show_icons=true&theme=midnight-purple&locale=en&layout=compact"  /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerFarukYilmaz-github&show_icons=true&theme=midnight-purple&locale=en&layout=compact&exclude_repo=FlappyBird,aaBasicMechanic"  /></p>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=OmerFarukYilmaz-github&show_icons=true&theme=midnight-purple)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmerFarukYilmaz-github&theme=midnight-purple" alt="OmerFarukYilmaz-github" /></p>
 
