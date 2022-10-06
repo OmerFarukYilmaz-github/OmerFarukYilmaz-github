@@ -4,7 +4,7 @@
 Hello There! Selamun Aleykum👋I'm Ömer. I was born in 2000. I'm a Student 👨‍🎓
 - 🔭 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Developing an mobile game app and learning more about mobile, game and IoT. 
+- 🥅 2022 Goals: Developing an mobile game app and learning more about game development and Unity . 
 - ⚡ Fun fact: I like to; spend time with the people I love 👨‍👩‍👧‍👦, play basketball ⛹️‍♂️ and bodybuilding 🏋️
 <br />
 
