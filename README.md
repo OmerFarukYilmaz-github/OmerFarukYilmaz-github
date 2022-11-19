@@ -39,13 +39,17 @@ Hello There! Selamun Aleykum👋I'm Ömer. I was born in 2000. I'm a Student �
 <br />
 
 ### Resume
-.pdf  .png<br />
-<a href="https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/blob/main/Cv.pdf" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/452/resume.png" alt="resume" width="40" height="40"/> <a href="https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/blob/main/Cv.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/452/resume.png" alt="resume" width="40" height="40"/> 
+.pdf  <br />
+<a href="https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/files/10047169/Cv.pdf" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/452/resume.png" alt="resume" width="40" height="40"/> 
+
+png
+![Cv](https://user-images.githubusercontent.com/66321088/202855239-958a791c-b9ca-41c6-97bb-9b02c05551bf.png)
 
 
-
-
-[instagram]: https://www.instagram.com
-[linkedin]: https://www.linkedin.com/in/ömer-faruk-yılmaz-490032234/
+[linkedin]: https://www.linkedin.com/in/omer-faruk-yilmaz
 [gmail]: mailto:omerfarukyilmaz.iletisim@gmail.com
 <br />
+
+
+
+
