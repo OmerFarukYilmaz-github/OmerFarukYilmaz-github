@@ -1,9 +1,9 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-Hello There! Selamun Aleykum👋I'm Ömer. I was born in 2000. I'm a Student 👨‍🎓
-- 🔭 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other developer
+Hello There! 👋 I'm Ömer Faruk Yilmaz. I was born in 2000. I am a student at Celal Bayar University. I like thinking logically, I love coding, and I enjoy it.
+Well-planned hard work, dedication, passion, good teammates, communication and discipline are some keys to my success.
+
 - 🥅 2022 Goals: Developing an mobile game app and learning more about game development and Unity . 
 - ⚡ Fun fact: I like to; spend time with the people I love 👨‍👩‍👧‍👦, play basketball ⛹️‍♂️ and bodybuilding 🏋️
 <br />
