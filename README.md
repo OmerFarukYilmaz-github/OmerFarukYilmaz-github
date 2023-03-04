@@ -42,8 +42,6 @@ Well-planned hard work, dedication, passion, good teammates, communication and d
 .pdf  <br />
 <a href="https://github.com/OmerFarukYilmaz-github/OmerFarukYilmaz-github/files/10047169/Cv.pdf" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/452/resume.png" alt="resume" width="40" height="40"/> 
 
-png
-![Cv](https://user-images.githubusercontent.com/66321088/202855239-958a791c-b9ca-41c6-97bb-9b02c05551bf.png)
 
 
 [linkedin]: https://www.linkedin.com/in/omer-faruk-yilmaz
